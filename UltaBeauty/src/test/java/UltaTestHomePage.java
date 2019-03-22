@@ -20,6 +20,11 @@ public class UltaTestHomePage extends CommonAPI{
     }
 
     @Test
+    public void getTitle(){
+        driver.getTitle();
+    }
+
+    @Test
     public void find() {
         driver.findElement(By.id("sign-in"));
     }
