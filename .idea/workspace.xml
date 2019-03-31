@@ -2,21 +2,204 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="340b4818-5e59-4623-8f8b-5bd30200d5ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linkedin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linkedin/src/main/java/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linkedin/src/test/java/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/AlartBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/AllCatagoriBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/AllCatagoriIconbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/BestGamingLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/BuyBtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/ConsolesFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/DailyDeals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/EbayHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/GetTheCupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/GiftsCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/HelpAndContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/HelpIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/HomeAndGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/HomeButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/MoreTopDeals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/MotorsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/MouseOverFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/MusicButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/MyEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/OrdersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/QuestionIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/RegisterButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/Sell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/SingIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/SportingItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/Supersmartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/ebayPage/TheBestSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/DaysOndailysel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/LoginPageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/SpoilYourself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/AllCatagoriFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/BooksItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/IphoneXr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/LaptopSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/NiveaSoft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/PopcornMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/SearchHoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/ShampooItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/Sunglasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/main/java/searchHomePage/ThermoFlask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnPageItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnSpoilPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/ElectronicItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestAllcatogoriItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestElectronicItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestFindThermoFlask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestIphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestItemShampoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestNewItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestSearchItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/TestSearchNivea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testSearch/testPopCronMachones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestAleart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestAllCatagoriBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestBestGamingLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestBuyButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestConsoleForbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestDaily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestFashionBtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestGetTheCupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestGiftAndcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestHelpAndContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestHelpBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestHomeAndGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestHomePageBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestMoreTopDeals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestMotors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestMusicItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestMyEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestQuestionIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestSing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestSportingButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestSuperSmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/TestToysItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/ToysButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay.com/src/test/java/testTitle/testBestsellerBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/excelDataReader/ExcelHomePageFcebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AboutButtounOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AccountSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CareersButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickEmailBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickOnIconMale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickOnLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickOnNewButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickPassswordField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CookiesButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Createonadd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/DateFieldBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/DevelopersOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/EnterEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/FacebookLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Facebookbutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/FilupYearField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/FindFriendsBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/FindPeopleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/FirstNameField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Fundraiserbutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Gamesbutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/GroupsButtton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/HelpButtonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/IconOnFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/InputEmailBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/InstragramButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LastnameField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LocalOnpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LocationsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LoginandHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/MarketPlaceButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/MessengerBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/MonthFiledButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/NewPassField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/PagesButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/PrivacyBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ProfilesButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/SignUpLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/TermsOnPageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/placesButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestAboutOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestDayButtomOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestEmailItemBtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestFacebookbtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestFindFriendItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestFirstnamebutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestIconBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestInstagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestLastNameButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestLocationSBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestMarketPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestMessengerButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestNewMonthBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestNewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestNewpasswordFiled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnAccSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCareers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCreateOnaddPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnEmailButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnFacebookButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnGamesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnHelpButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnLocalPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnLoginAndHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnMaleIconbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPageFundrariser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPeopleBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPlacesbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPrivacyButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnProfiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnTermsBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnYearbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOndevelopers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOngroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestPasswordButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestSignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestSignuplinkButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/resources/ExcelFile.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/classes/META-INF/UltaBeauty.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/classes/SearchWithDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/classes/UltaHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/classes/UltaMakeUpPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/classes/UltaSignUpPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/test-classes/META-INF/UltaBeauty.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/test-classes/TestSearchWithDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/test-classes/UltaTestHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/test-classes/UltaTestMakeUpPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltaBeauty/target/test-classes/UltaTestSignUpPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay.com/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedin/src/main/java/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedin/src/test/java/TestHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedin/target/classes/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedin/target/test-classes/TestHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook.com/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/main/java/SearchWithDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaMakeUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaSignUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/test/java/TestSearchWithDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestMakeUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestSignUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAutomationGroup3.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,6 +207,9 @@
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/UltaBeauty/target/" />
     <ignored path="$PROJECT_DIR$/Linkedin/target/" />
+    <ignored path="$PROJECT_DIR$/Ebay.com/target/" />
+    <ignored path="$PROJECT_DIR$/FaceBook.com/target/" />
+    <ignored path="$PROJECT_DIR$/RestApi_Demo2019/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +225,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linkedin/src/main/java/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state relative-caret-position="139">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestInstagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Linkedin/src/test/java/TestHomePage.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="94" column="69" selection-start-line="94" selection-start-column="69" selection-end-line="94" selection-end-column="69" />
+            <state relative-caret-position="280">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/secret.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AboutButtounOnPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestAboutOnPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="125" lean-forward="true" selection-start-line="12" selection-start-column="125" selection-end-line="12" selection-end-column="125" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/resources/FaceBooktestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="54" column="56" lean-forward="true" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -77,28 +320,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPlacesbar.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Gamesbutton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnGamesPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LocationsButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestLocationSBar.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/MarketPlaceButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestMarketPlace.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/GroupsButtton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOngroups.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/InstragramButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestInstagram.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LocalOnpage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnLocalPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Fundraiserbutton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPageFundrariser.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AboutButtounOnPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCreateOnaddPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Createonadd.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/DevelopersOnPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOndevelopers.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CareersButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCareers.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/PrivacyBar.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPrivacyButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CookiesButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCookies.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/TermsOnPageButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnTermsBar.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AccountSecurity.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnAccSecurity.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LoginandHelp.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnLoginAndHelp.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickOnNewButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestNewPage.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/LoginPageButton.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestonPage.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/DaysOndailysel.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnPageItem.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnSpoilPage.java" />
+        <option value="$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/SpoilYourself.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnHelpButton.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/HelpButtonClass.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/test/test/menuTest/titleTest.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/pom.xml" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaHomePage.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaSignUpPage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/secret.properties" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/main/java/SearchWithDB.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/TestSqlDBSearch.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/TestSearchWithDB.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaMakeUpPageTest.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/main/java/UltaMakeUpPage.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/main/resources/FaceBooktestRunner.xml" />
+        <option value="$PROJECT_DIR$/RestApi_Demo2019/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" />
+        <option value="$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestAboutOnPage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestHomePage.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestMakeUpPage.java" />
-        <option value="$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestSignUpPage.java" />
-        <option value="$PROJECT_DIR$/Linkedin/pom.xml" />
-        <option value="$PROJECT_DIR$/Linkedin/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/Linkedin/src/test/java/TestHomePage.java" />
       </list>
     </option>
   </component>
@@ -114,12 +386,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Linkedin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Linkedin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="FaceBook.com" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -129,9 +396,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
-    <option name="width" value="814" />
-    <option name="height" value="867" />
+    <option name="x" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,6 +408,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,58 +419,25 @@
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="Linkedin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="Linkedin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="Linkedin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="Linkedin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="Linkedin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -210,41 +445,140 @@
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="UltaBeauty" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay.com" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="excelDataReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceBook.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553312566215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554057779482" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/FaceBook.com/src/test/java" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/Web-Automation-January2019/Generic/1.0-SNAPSHOT/Generic-1.0-SNAPSHOT.jar!/base" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -252,9 +586,19 @@
       <recent name="base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Md Nurul Islam\IdeaProjects\WebAutomationGroup3\FaceBook.com\src\test\resources" />
+      <recent name="C:\Users\Md Nurul Islam\IdeaProjects\WebAutomationGroup3\Generic\browser-driver" />
       <recent name="C:\Users\Sylvana Rahman\IntelliJ idea projects\WebAutomationGroup3\Generic\browser-driver" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
       <recent name="$PROJECT_DIR$/Generic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Md Nurul Islam\IdeaProjects\WebAutomationGroup3\FaceBook.com\src\test\resources" />
+      <recent name="C:\Users\Md Nurul Islam\IdeaProjects\WebAutomationGroup3\FaceBook.com\src\main\java\excelDataReader" />
+      <recent name="C:\Users\Md Nurul Islam\IdeaProjects\WebAutomationGroup3\FaceBook.com\src\ExcelData" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,22 +613,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage">
-    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Linkedin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
+  <component name="RunManager" selected="TestNG.TestAboutOnPage">
+    <configuration name="C:/Users/Md Nurul Islam/IdeaProjects/WebAutomationGroup3/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBook.com" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.registerWithNoCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Linkedin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="registerWithNoCredentials" />
+    <configuration name="TestAboutOnPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBook.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTitelPage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testTitelPage" />
+      <option name="MAIN_CLASS_NAME" value="testTitelPage.TestAboutOnPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAboutOnPage.testOnAboutOnpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBook.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTitelPage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testTitelPage" />
+      <option name="MAIN_CLASS_NAME" value="testTitelPage.TestAboutOnPage" />
+      <option name="METHOD_NAME" value="testOnAboutOnpage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -292,11 +659,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.registerWithNoEmail" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Linkedin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="registerWithNoEmail" />
+    <configuration name="TestAboutOnPage.testSearchAndNavigateUsingKeywordDriven" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBook.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTitelPage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testTitelPage" />
+      <option name="MAIN_CLASS_NAME" value="testTitelPage.TestAboutOnPage" />
+      <option name="METHOD_NAME" value="testSearchAndNavigateUsingKeywordDriven" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -304,23 +677,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.registerWithNoLastName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Linkedin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="registerWithNoLastName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHomePage.registerWithNoPassword" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Linkedin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="registerWithNoPassword" />
+    <configuration name="TestInstagram.testOnInstagrameOnPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBook.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTitelPage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testTitelPage" />
+      <option name="MAIN_CLASS_NAME" value="testTitelPage.TestInstagram" />
+      <option name="METHOD_NAME" value="testOnInstagrameOnPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -330,11 +697,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestHomePage" />
-        <item itemvalue="TestNG.TestHomePage.registerWithNoCredentials" />
-        <item itemvalue="TestNG.TestHomePage.registerWithNoPassword" />
-        <item itemvalue="TestNG.TestHomePage.registerWithNoEmail" />
-        <item itemvalue="TestNG.TestHomePage.registerWithNoLastName" />
+        <item itemvalue="TestNG.TestAboutOnPage" />
+        <item itemvalue="TestNG.TestAboutOnPage.testOnAboutOnpage" />
+        <item itemvalue="TestNG.C:/Users/Md Nurul Islam/IdeaProjects/WebAutomationGroup3/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" />
+        <item itemvalue="TestNG.TestAboutOnPage.testSearchAndNavigateUsingKeywordDriven" />
+        <item itemvalue="TestNG.TestInstagram.testOnInstagrameOnPage" />
       </list>
     </recent_temporary>
   </component>
@@ -352,42 +719,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_enterFirstName - 2019.03.22 at 22h 42m 42s.xml">
-      <configuration name="TestHomePage.enterFirstName" configurationId="TestNG" />
+    <history-entry file="TestOndevelopers_testOndevelopers - 2019.03.30 at 14h 49m 57s.xml">
+      <configuration name="TestOndevelopers.testOndevelopers" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage - 2019.03.22 at 23h 00m 22s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
+    <history-entry file="TestOndevelopers - 2019.03.30 at 14h 50m 34s.xml">
+      <configuration name="TestOndevelopers" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage - 2019.03.22 at 23h 04m 35s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
+    <history-entry file="C__Users_Md_Nurul_Islam_IdeaProjects_WebAutomationGroup3_FaceBook_com_src_main_resources_FaceBooktestRunner_xml - 2019.03.30 at 15h 33m 49s.xml">
+      <configuration name="C:/Users/Md Nurul Islam/IdeaProjects/WebAutomationGroup3/FaceBook.com/src/main/resources/FaceBooktestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerForLinkedIn - 2019.03.22 at 23h 06m 14s.xml">
-      <configuration name="TestHomePage.registerForLinkedIn" configurationId="TestNG" />
+    <history-entry file="TestInstagram_testOnInstagrameOnPage - 2019.03.30 at 17h 50m 51s.xml">
+      <configuration name="TestInstagram.testOnInstagrameOnPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoLastName - 2019.03.22 at 23h 08m 55s.xml">
-      <configuration name="TestHomePage.registerWithNoLastName" configurationId="TestNG" />
+    <history-entry file="TestAboutOnPage_testSearchAndNavigateUsingKeywordDriven - 2019.03.31 at 00h 54m 10s.xml">
+      <configuration name="TestAboutOnPage.testSearchAndNavigateUsingKeywordDriven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoLastName - 2019.03.22 at 23h 16m 06s.xml">
-      <configuration name="TestHomePage.registerWithNoLastName" configurationId="TestNG" />
+    <history-entry file="C__Users_Md_Nurul_Islam_IdeaProjects_WebAutomationGroup3_FaceBook_com_src_test_resources_FaceBooktestRunner_xml - 2019.03.31 at 12h 13m 17s.xml">
+      <configuration name="C:/Users/Md Nurul Islam/IdeaProjects/WebAutomationGroup3/FaceBook.com/src/test/resources/FaceBooktestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoLastName - 2019.03.22 at 23h 30m 08s.xml">
-      <configuration name="TestHomePage.registerWithNoLastName" configurationId="TestNG" />
+    <history-entry file="TestAboutOnPage_testOnAboutOnpage - 2019.03.31 at 12h 23m 32s.xml">
+      <configuration name="TestAboutOnPage.testOnAboutOnpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoEmail - 2019.03.22 at 23h 35m 50s.xml">
-      <configuration name="TestHomePage.registerWithNoEmail" configurationId="TestNG" />
+    <history-entry file="TestAboutOnPage_testOnAboutOnpage - 2019.03.31 at 14h 11m 11s.xml">
+      <configuration name="TestAboutOnPage.testOnAboutOnpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoEmail - 2019.03.22 at 23h 36m 25s.xml">
-      <configuration name="TestHomePage.registerWithNoEmail" configurationId="TestNG" />
+    <history-entry file="TestAboutOnPage - 2019.03.31 at 14h 13m 37s.xml">
+      <configuration name="TestAboutOnPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_registerWithNoPassword - 2019.03.22 at 23h 37m 59s.xml">
-      <configuration name="TestHomePage.registerWithNoPassword" configurationId="TestNG" />
+    <history-entry file="TestAboutOnPage - 2019.03.31 at 14h 17m 14s.xml">
+      <configuration name="TestAboutOnPage" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.17480719" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.2806354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -395,28 +761,28 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010225" side_tool="true" weight="0.24640805" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2920592" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26244953" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33551556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49695587" weight="0.05237316" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4811166" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19919246" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35188216" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030441" side_tool="true" weight="0.23973727" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270525" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.14285715" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.10796915" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.09228442" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.17480719" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.27637616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -424,216 +790,508 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010225" side_tool="true" weight="0.24640805" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2920592" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33551556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.049261082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26244953" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.19919246" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.44517186" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270525" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.24713585" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.10796915" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.07568807" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/test/test/menuTest/titleTest.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/OutputType.class">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/Createonadd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+        <state relative-caret-position="140">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/DevelopersOnPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="200">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCreateOnaddPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="18" selection-start-line="9" selection-start-column="3" selection-end-line="14" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CareersButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/PrivacyBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/CookiesButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCareers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/TermsOnPageButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnPrivacyButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnTermsBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AccountSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnCookies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnAccSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/LoginandHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/ClickOnNewButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnLoginAndHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="19" selection-start-line="9" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestNewPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestonPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/SpoilYourself.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/LoginPageButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnSpoilPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/ClassImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="409" column="76" lean-forward="true" selection-start-line="409" selection-start-column="76" selection-end-line="409" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/ClassHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8160">
+          <caret line="439" column="78" lean-forward="true" selection-start-line="439" selection-start-column="78" selection-end-line="439" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/ObjectFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#2475#2476#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/PageFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/main/java/loginPage/DaysOndailysel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnFacebookButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/src/test/java/TestLoginOnPage/TestOnPageItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOndevelopers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnGamesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestOnHelpButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/HelpButtonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        <state relative-caret-position="100">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3860">
+          <caret line="199" column="4" selection-start-line="199" selection-start-column="4" selection-end-line="199" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay.com/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testExcel/ExcelReaderTest.java" />
+    <entry file="file://$PROJECT_DIR$/RestApi_Demo2019/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/excelDataReader/ExcelHomePageFcebook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/resources/FaceBooktestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="54" column="56" lean-forward="true" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/secret.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestInstagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="452" selection-start-line="452" selection-end-line="452" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="213" column="6" selection-start-line="213" selection-start-column="6" selection-end-line="213" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/test/java/UltaMakeUpPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="80">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="139">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/main/java/UltaSignUpPage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/Web-Automation-January2019/Generic/1.0-SNAPSHOT/Generic-1.0-SNAPSHOT.jar!/base/CommonAPI.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-911">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="138">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/main/java/SearchWithDB.java">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/test/java/testTitelPage/TestAboutOnPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="15" column="9" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="240">
+          <caret line="12" column="125" lean-forward="true" selection-start-line="12" selection-start-column="125" selection-end-line="12" selection-end-column="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/test/java/TestSearchWithDB.java">
+    <entry file="file://$PROJECT_DIR$/FaceBook.com/src/main/java/facebookHomePage/AboutButtounOnPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="200">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestSignUpPage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1282">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linkedin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/main/java/UltaHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="81" column="55" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/test/java/UltaTestMakeUpPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UltaBeauty/src/main/java/UltaMakeUpPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linkedin/src/main/java/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linkedin/src/test/java/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="94" column="69" selection-start-line="94" selection-start-column="69" selection-end-line="94" selection-end-column="69" />
+        <state relative-caret-position="280">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -677,7 +1335,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -689,7 +1347,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>Ebay.com</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -714,7 +1372,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -5,26 +5,20 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
-
-
     public WebDriver driver = null;
-
     //@Parameters({"url"})
-    @BeforeMethod
+    @BeforeClass
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sylvana Rahman\\IntelliJ idea projects\\WebAutomationGroup3\\Generic\\browser-driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\Md Nurul Islam\\IdeaProjects\\WebAutomationGroup3\\Generic\\browser-driver\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();
-
     }
-
     public void mouseHoverByXpath(String locator) {
         try {
             WebElement element = driver.findElement(By.xpath(locator));
@@ -38,16 +32,11 @@ public class CommonAPI {
             WebElement element = driver.findElement(By.cssSelector(locator));
             Actions action = new Actions(driver);
             action.moveToElement(element).perform();
-
-
         }
-
     }
-
-
-    @AfterMethod
-    public void cleanUp() {
-        //driver.navigate().back();
-        driver.close();
+    @AfterClass
+    public void cleanUp(){
+      driver.quit();
+//       this.driver.close();
     }
 }

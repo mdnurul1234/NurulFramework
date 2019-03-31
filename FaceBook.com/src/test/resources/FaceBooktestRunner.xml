@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LinkedIn Automation Script " parallel="false">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="Saucelabs"/>
+    <!--<parameter name="cloudEnvName" value="Browserstack"/>-->
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Sierra"/>
+    <parameter name="browserName" value="chrome"/>
+    <!--<parameter name="browserName" value="firefox"/>-->
+    <parameter name="browserVersion" value="30"/>
+    <parameter name="url" value="https://www.facebook.com"/>
+    <test name = "FaceBook">
+        <classes>
+            <class name="testTitelPage.TestAboutOnPage"/>
+            <class name="testTitelPage.TestDayButtomOnPage"/>
+            <class name="testTitelPage.TestEmailItemBtn"/>
+            <class name="testTitelPage.TestFacebookbtn"/>
+            <class name="testTitelPage.TestFindFriendItem"/>
+            <class name="testTitelPage.TestFirstnamebutton"/>
+            <class name="testTitelPage.TestIconBar"/>
+            <class name="testTitelPage.TestInstagram"/>
+            <class name="testTitelPage.TestLastNameButton"/>
+            <class name="testTitelPage.TestLocationSBar"/>
+            <class name="testTitelPage.TestLoginPage"/>
+            <class name="testTitelPage.TestMarketPlace"/>
+            <class name="testTitelPage.TestMessengerButton"/>
+            <class name="testTitelPage.TestNewMonthBar"/>
+            <class name="testTitelPage.TestAboutOnPage"/>
+            <class name="testTitelPage.TestNewpasswordFiled"/>
+            <class name="testTitelPage.TestOnAccSecurity"/>
+            <class name="testTitelPage.TestOnCareers"/>
+            <class name="testTitelPage.TestOnCookies"/>
+            <class name="testTitelPage.TestOnCreateOnaddPage"/>
+            <class name="testTitelPage.TestOndevelopers"/>
+            <class name="testTitelPage.TestOnEmailButton"/>
+            <class name="testTitelPage.TestOnFacebookButton"/>
+            <class name="testTitelPage.TestOnGamesPage"/>
+            <class name="testTitelPage.TestOngroups"/>
+            <class name="testTitelPage.TestOnHelpButton"/>
+            <class name="testTitelPage.TestOnLocalPage"/>
+            <class name="testTitelPage.TestOnLoginAndHelp"/>
+            <class name="testTitelPage.TestOnMaleIconbar"/>
+            <class name="testTitelPage.TestOnPageFundrariser"/>
+            <class name="testTitelPage.TestOnPages"/>
+            <class name="testTitelPage.TestOnPeopleBar"/>
+            <class name="testTitelPage.TestOnPlacesbar"/>
+            <class name="testTitelPage.TestOnPrivacyButton"/>
+            <class name="testTitelPage.TestOnProfiles"/>
+            <class name="testTitelPage.TestOnTermsBar"/>
+            <class name="testTitelPage.TestOnYearbar"/>
+            <class name="testTitelPage.TestPasswordButton"/>
+            <class name="testTitelPage.TestSignInPage"/>
+            <class name="testTitelPage.TestSignuplinkButton"/>
+        </classes>
+    </test>
+
+</suite>

@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Ebay.com" />
+        <module name="FaceBook.com" />
         <module name="Generic" />
-        <module name="Linkedin" />
-        <module name="UltaBeauty" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Linkedin" target="1.8" />
+      <module name="RestApi_Demo2019" target="1.5" />
+      <module name="UltaBeauty" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
